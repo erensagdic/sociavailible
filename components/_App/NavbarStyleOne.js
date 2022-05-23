@@ -34,7 +34,7 @@ const NavbarStyleOne = () => {
                             <Link href="/">
                                 <a className="navbar-brand d-flex" style={{ placeItems: "center"}}>
                                     <img src="/images/software-integrations/frame.png" alt="logo" className="mt-2" style={{ width: "3rem"}}/>
-                                    <p style={{ marginLeft: "1rem", color:"white"}}>SOCIAVALIABLE</p>
+                                    <p style={{ marginLeft: "1rem", color:"white", fontWeight: "bold"}}>SocialAvailiable</p>
                                 </a>
                             </Link>
 
@@ -55,7 +55,13 @@ const NavbarStyleOne = () => {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="#" activeClassName="active">
+                                        <Link href="/" activeClassName="active">
+                                            <a onClick={toggleNavbar} className="nav-link">Home</a>
+                                        </Link>
+                                    </li>
+
+                                   {/* <li className="nav-item">
+                                        <Link href="/" activeClassName="active">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Home
                                             </a>
@@ -98,29 +104,15 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li>*/}
 
                                     <li className="nav-item">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
-                                                About Us
-                                            </a>
+                                        <Link href="/about-simple" activeClassName="active">
+                                            <a onClick={toggleNavbar} className="nav-link">About Us</a>
                                         </Link>
-
-                                        <ul className="dropdown-menu">
-                                            <li className="nav-item">
-                                                <Link href="/about-simple" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">About Simple</a>
-                                                </Link>
-                                            </li> 
-
-                                            <li className="nav-item">
-                                                <Link href="/about-modern" activeClassName="active">
-                                                    <a onClick={toggleNavbar} className="nav-link">About Modern</a>
-                                                </Link>
-                                            </li>
-                                        </ul>
                                     </li>
+
+                                    {/*
 
                                     <li className="nav-item megamenu">
                                         <Link href="#">
@@ -251,8 +243,9 @@ const NavbarStyleOne = () => {
                                             </li>
                                         </ul>
                                     </li>
+*/}
 
-                                    <li className="nav-item">
+                                   {/* <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Features
@@ -272,9 +265,9 @@ const NavbarStyleOne = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li>*/}
 
-                                    <li className="nav-item">
+                                   {/* <li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
                                                 Blog
@@ -307,7 +300,7 @@ const NavbarStyleOne = () => {
                                             </li> 
                                         </ul>
                                     </li>
-
+*/}
                                     <li className="nav-item">
                                         <Link href="/contact" activeClassName="active">
                                             <a onClick={toggleNavbar} className="nav-link">Contact</a>

@@ -27,7 +27,7 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
+                                    <li><i className="ri-check-line"></i> Up to 3 Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
                                     <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>
@@ -53,7 +53,7 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
+                                    <li><i className="ri-check-line"></i> Up to 7 Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
                                     <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>
@@ -78,7 +78,7 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
+                                    <li><i className="ri-check-line"></i> Unlimited Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
                                     <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>

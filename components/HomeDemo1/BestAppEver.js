@@ -5,7 +5,7 @@ import ScrollAnimation from 'react-animate-on-scroll';
 const BestAppEver = () => {
     return (
         <>
-            <div className="features-area ptb-100">
+            <div className="features-area ptb-100" id="features">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">

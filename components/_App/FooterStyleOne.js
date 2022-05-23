@@ -14,7 +14,9 @@ const FooterStyleOne = () => {
                     <div className="footer-content">
                         <Link href="/">
                             <a className="logo">
-                                <img src="/images/logo2.png" alt="logo" />
+                                <img src="/images/software-integrations/frame.png" alt="logo" />
+                                <p className="text-white mt-2" style={{ fontWeight: "bold "}}>SocialAvailiable</p>
+
                             </a>
                         </Link>
 
@@ -48,9 +50,7 @@ const FooterStyleOne = () => {
 
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <Link href="/services">
-                                    <a className="nav-link">Services</a>
-                                </Link>
+                                <a href="#features" className="nav-link">Services</a>
                             </li>
                             <li className="nav-item">
                                 <Link href="/contact">
@@ -74,7 +74,7 @@ const FooterStyleOne = () => {
                             </li>
                         </ul>
 
-                        <p className="copyright">Copyright &copy; {currentYear} <strong>Texap</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>
+                        <p className="copyright">Copyright &copy; {currentYear} <strong>SocialAvailiable</strong>. All Rights Reserved by <a target="_blank">SocialAvailiable</a></p>
                     </div>
                 </div>
             </div>
