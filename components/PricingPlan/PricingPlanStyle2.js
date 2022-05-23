@@ -19,7 +19,7 @@ const PricingPlanStyle2 = () => {
                                     <p>Powerful & awesome elements</p>
                                 </div>
                                 <div className="price">
-                                    $39 <span>/Month</span>
+                                    $59 <span>/Month</span>
                                 </div>
 
                                 <Link href="/sign-in">
@@ -27,11 +27,11 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 10 Website</li>
+                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 10 GB Dedicated Hosting free</li>
+                                    <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-close-line"></i> SEO Optimized</li>
+                                    <li><i className="ri-close-line"></i> Unlimited AI usage</li>
                                     <li><i className="ri-close-line"></i> Live Support</li>
                                 </ul>
                             </div>
@@ -45,7 +45,7 @@ const PricingPlanStyle2 = () => {
                                 </div>
                                 <span className="popular">Most Popular</span>
                                 <div className="price">
-                                    $49 <span>/Month</span>
+                                    $79 <span>/Month</span>
                                 </div>
 
                                 <Link href="/sign-in">
@@ -53,12 +53,12 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 200 Website</li>
+                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 25 GB Dedicated Hosting free</li>
+                                    <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-check-line"></i> SEO Optimized</li>
-                                    <li><i className="ri-close-line"></i> Live Support</li>
+                                    <li><i className="ri-check-line"></i> Live Support</li>
+                                    <li><i className="ri-close-line"></i> Unlimited AI usage</li>
                                 </ul>
                             </div>
                         </div>
@@ -70,7 +70,7 @@ const PricingPlanStyle2 = () => {
                                     <p>Powerful & awesome elements</p>
                                 </div>
                                 <div className="price">
-                                    $59 <span>/Month</span>
+                                    $99 <span>/Month</span>
                                 </div>
 
                                 <Link href="/sign-in">
@@ -78,12 +78,12 @@ const PricingPlanStyle2 = () => {
                                 </Link>
 
                                 <ul className="features-list">
-                                    <li><i className="ri-check-line"></i> Up to 500 Website</li>
+                                    <li><i className="ri-check-line"></i> Up to 5 Social Media Account</li>
                                     <li><i className="ri-check-line"></i> Lifetime free Support</li>
-                                    <li><i className="ri-check-line"></i> 50 GB Dedicated Hosting free</li>
+                                    <li><i className="ri-check-line"></i> Export all analysis</li>
                                     <li><i className="ri-check-line"></i> 24/7 Support</li>
-                                    <li><i className="ri-check-line"></i> SEO Optimized</li>
                                     <li><i className="ri-check-line"></i> Live Support</li>
+                                    <li><i className="ri-check-line"></i> Unlimited AI usage</li>
                                 </ul>
                             </div>
                         </div>

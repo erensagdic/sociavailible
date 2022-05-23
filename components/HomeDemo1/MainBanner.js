@@ -15,8 +15,8 @@ const MainBanner = () => {
                                 <div className="content">
                                     <div className="name-big-text">SOCIAVAILIABLE</div>
                                     <span className="sub-title">#Get Your 14 Days Free Trial</span>
-                                    <h1 className="banner-h1">Manage All Of Your Stuff Using A Texap</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid error explicabo illo magnam, placeat tempora temporibus! Aliquid beatae debitis fugiat illum, maiores minus natus quam repellendus sequi suscipit vel voluptas.</p>
+                                    <h1 className="banner-h1">Manage All Of Your Stuff Using A Sociaviliable</h1>
+                                    <p>You can use your social media accounts more effectively by using SocialAvailiable. We are working to provide you the best service with detailed analysis and artificial intelligence supported programs.</p>
                                 </div>
                             </div>
 

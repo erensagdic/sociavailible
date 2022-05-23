@@ -13,35 +13,32 @@ import PricingPlanStyle1 from '@/components/PricingPlan/PricingPlanStyle1';
 import ClientFeedbackStyle1 from '@/components/Feedbacks/ClientFeedbackStyle1';
 import FreeTrialStyle1 from '@/components/Common/FreeTrialStyle1';
 import FooterStyleOne from '@/components/_App/FooterStyleOne';
- 
+import PricingPlanStyle2 from "@/components/PricingPlan/PricingPlanStyle2";
+
 const IndexPage = () => {
     return (
         <>
-            <NavbarStyleOne /> 
+            <NavbarStyleOne/>
 
-            <MainBanner />
-    
-            <Features />
+            <MainBanner/>
 
-            <IntroVideo />
+            <Features/>
 
-            <BestAppEver />
+            <BestAppEver/>
 
-            <KeyFeatures />
+            <IntroVideo/>
 
-            <AppProgressStyle1 />
+            <AppProgressStyle1/>
 
-            <AppDownloadStyle1 />
+            <AppDownloadStyle1/>
 
-            <SoftwareIntegrations />
+            <SoftwareIntegrations/>
 
-            <PricingPlanStyle1 />
+            <PricingPlanStyle2/>
 
-            <ClientFeedbackStyle1 />
+            <FreeTrialStyle1/>
 
-            <FreeTrialStyle1 />
-
-            <FooterStyleOne />
+            <FooterStyleOne/>
         </>
     )
 }

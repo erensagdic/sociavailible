@@ -12,7 +12,7 @@ const Features = () => {
                                     <i className="ri-smartphone-line"></i>
                                 </div>
                                 <h3>User Friendly</h3>
-                                <p>Most provably best dashboard design for your business you can try.</p>
+                                <p>We offer you an easy to use interface with its user-friendly interface.</p>
                             </div>
                         </div>
 
@@ -32,7 +32,7 @@ const Features = () => {
                                     <i className="ri-fingerprint-line"></i>
                                 </div>
                                 <h3>Privacy Protected</h3>
-                                <p>Most provably best dashboard design for your business you can try.</p>
+                                <p>We do not share your personal data with any 3rd party institutions or software.</p>
                             </div>
                         </div>
 
@@ -41,8 +41,8 @@ const Features = () => {
                                 <div className="icon bg4">
                                     <i className="ri-vip-diamond-line"></i>
                                 </div>
-                                <h3>Lifetime Update</h3>
-                                <p>Most provably best dashboard design for your business you can try.</p>
+                                <h3>Latest Technologies</h3>
+                                <p>We support you with up-to-date software by constantly renewing ourselves.</p>
                             </div>
                         </div>
                     </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import ScrollAnimation from 'react-animate-on-scroll';
+import Link from "next/link";
 
 const AppDownloadStyle1 = () => {
     return (
@@ -10,21 +11,14 @@ const AppDownloadStyle1 = () => {
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-12">
                                 <div className="app-download-content">
-                                    <span className="sub-title">DOWNLOAD APP</span>
-                                    <h2>Let's Get Your Free Copy From Apple and Play Store</h2>
-                                    <p>Instant free download from store Cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy text.</p>
+                                    <span className="sub-title">Start Free Trial</span>
+                                    <h2>Let's Get Your Free Trial </h2>
+                                    <p>You can easily start your 14-day trial version without having to enter any card information.</p>
 
                                     <div className="btn-box">
-                                        <a href="https://play.google.com/store/apps" className="playstore-btn" target="_blank">
-                                            <img src="/images/play-store.png" alt="image" />
-                                            Get It On
-                                            <span>Google Play</span>
-                                        </a>
-                                        <a href="https://www.apple.com/app-store/" className="applestore-btn" target="_blank">
-                                            <img src="/images/apple-store.png" alt="image" />
-                                            Download on the
-                                            <span>Apple Store</span>
-                                        </a>
+                                        <Link href="/app-download">
+                                            <a className="default-btn">Start Free Trial</a>
+                                        </Link>
                                     </div>
                                 </div>
                             </div>
