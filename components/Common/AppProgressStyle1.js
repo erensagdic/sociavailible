@@ -9,7 +9,7 @@ const AppProgressStyle1 = () => {
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-md-12">
                             <div className="app-progress-image text-center">
-                                <img src="/images/app/app-img2.png" alt="app-img" />
+                                <img src="/images/new-images/progress.png" alt="app-img" />
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-12">

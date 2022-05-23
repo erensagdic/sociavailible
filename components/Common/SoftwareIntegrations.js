@@ -28,19 +28,19 @@ const SoftwareIntegrations = () => {
 
                                     <ul>
                                         <li>
-                                            <img src="/images/software-integrations/atlassian.png" className="atlassian" alt="atlassian" />
+                                            <img src="/images/new-images/facebook.png" className="atlassian" alt="atlassian" />
                                         </li>
                                         <li> 
-                                            <img src="/images/software-integrations/skype.png" className="skype" alt="skype" />
+                                            <img src="/images/new-images/instagram.png" className="skype" alt="skype" />
                                         </li>
                                         <li>
-                                            <img src="/images/software-integrations/gdrive.png" className="gdrive" alt="gdrive" />
+                                            <img src="/images/new-images/twitter.png" className="gdrive" alt="gdrive" />
                                         </li>
                                         <li>
-                                            <img src="/images/software-integrations/slack.png" className="slack" alt="slack" />
+                                            <img src="/images/new-images/linkedin.png" className="slack" alt="slack" />
                                         </li>
                                         <li>
-                                            <img src="/images/software-integrations/jira.png" className="jira" alt="jira" />
+                                            <img src="/images/new-images/social-truth.png" className="jira" alt="jira" />
                                         </li>
                                         <li>
                                             <img src="/images/software-integrations/frame.png" className="frame" alt="frame" />

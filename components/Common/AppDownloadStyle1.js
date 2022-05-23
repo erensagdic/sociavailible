@@ -32,7 +32,7 @@ const AppDownloadStyle1 = () => {
                             <div className="col-lg-6 col-md-12">
                                 <div className="app-download-image">
                                     <ScrollAnimation animateIn="fadeInUp">
-                                        <img src="/images/app/app-img3.png" alt="app-img" />
+                                        <img src="/images/new-images/app-ever.png" alt="app-img" />
                                     </ScrollAnimation>
                                 </div>
                             </div>

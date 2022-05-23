@@ -51,7 +51,7 @@ const BestAppEver = () => {
                         <div className="col-lg-6 col-md-12">
                             <div className="features-image text-center">
                                 <ScrollAnimation animateIn="fadeInUp">
-                                    <img src="/images/app/app-img1.png" alt="app-img" />
+                                    <img src="/images/new-images/about.png" alt="app-img" />
                                 </ScrollAnimation>
 
                                 <div className="shape">
