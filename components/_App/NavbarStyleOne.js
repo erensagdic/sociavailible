@@ -34,7 +34,7 @@ const NavbarStyleOne = () => {
                             <Link href="/">
                                 <a className="navbar-brand d-flex" style={{ placeItems: "center"}}>
                                     <img src="/images/software-integrations/frame.png" alt="logo" className="mt-2" style={{ width: "3rem"}}/>
-                                    <p style={{ marginLeft: "1rem", color:"white"}} className="tet-bold">SOCIAVALIABLE</p>
+                                    <p style={{ marginLeft: "1rem", color:"white"}}>SOCIAVALIABLE</p>
                                 </a>
                             </Link>
 
